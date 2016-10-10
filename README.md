@@ -2,6 +2,8 @@
 
 Data about professional development at tech companies.
 
+A visual representation is available here: [https://cdn.rawgit.com/robinske/professional-development/master/google-form-summary-charts.htm](https://cdn.rawgit.com/robinske/professional-development/master/google-form-summary-charts.htm)
+
 This data was born out of an anonymized Google Form. Original data was collected with multiple choice questions, so there are ranges in the data. Very open to contributions of any flavor!
 
 # Contributing
